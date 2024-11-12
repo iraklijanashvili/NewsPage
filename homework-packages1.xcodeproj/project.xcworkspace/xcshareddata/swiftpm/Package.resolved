@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "dateformater2",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iraklijanashvili/DateFormater2.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "eb5417ee7aa7a6ad871a60446e22e8f8402380fe"
+      }
+    },
+    {
+      "identity" : "newsnetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iraklijanashvili/NewsNetworking.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2e43009556a1b6180f71d1f129a2fe9dda43dbaa"
+      }
+    }
+  ],
+  "version" : 2
+}
